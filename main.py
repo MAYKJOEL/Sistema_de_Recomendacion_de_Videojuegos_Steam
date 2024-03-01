@@ -24,13 +24,13 @@ from pydantic import BaseModel
 app = FastAPI()
 
 
-# Dentro del script
-df_EP1 = pq.read_table("../ProyectoSteam/0-DATA/1desarrollador.parquet").to_pandas()
-df_EP2 = pq.read_table("../ProyectoSteam/0-DATA/2User_id.parquet").to_pandas()
-df_EP3 = pq.read_table("../ProyectoSteam/0-DATA/3genero.parquet").to_pandas()
-df_EP4 = pq.read_table("../ProyectoSteam/0-DATA/4año.parquet").to_pandas()
-df_EP5 = pq.read_table("../ProyectoSteam/0-DATA/5desarrolladora.parquet").to_pandas()
-modelo_games = pq.read_table("../ProyectoSteam/0-DATA/modelo_railway.parquet").to_pandas()
+# Dentro del script3genero.csv
+df_EP1 = pq.read_table("1desarrollador.parquet").to_pandas()
+df_EP2 = pq.read_table("2User_id.parquet").to_pandas()
+df_EP3 = pq.read_table("3genero.parquet").to_pandas()
+df_EP4 = pq.read_table("4año.parquet").to_pandas()
+df_EP5 = pq.read_table("5desarrolladora.parquet").to_pandas()
+modelo_games = pq.read_table("modelo_railway.parquet").to_pandas()
 
 
 
