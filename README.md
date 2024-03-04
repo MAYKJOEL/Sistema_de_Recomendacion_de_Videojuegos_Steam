@@ -36,7 +36,7 @@ Este proyecto de Machine Learning se centra en desarrollar un sistema de recomen
 El sistema está implementado en Python y utiliza FastAPI para crear una interfaz de programación de aplicaciones (API) que permite acceder a las funcionalidades mencionadas anteriormente.
 
 * Copia de seguridad: Se ejecutó una copia de los tres 3 archivos json para que puedan replicar este proyecto. Se guardó en GoogleDrive y está displinble.
-  [drive](https://drive.google.com/file/d/1YjSeWeZowc1GEikapwdMUWGBCY5-Wosh/view?usp=sharing)
+  ![drive](https://drive.google.com/file/d/1YjSeWeZowc1GEikapwdMUWGBCY5-Wosh/view?usp=sharing)
 * Extracción de datos: Se extrajo los datos de tres (3) archivos json con valores anidados. Se guardó en tres (3) archivos parquet.
 * ETL: Se procedió con el proceso de limpieza de los datos, eliminación de valores nulos, vacios y duplicados, además que se cambió el tipo de variables a cada columna.
 * EDA: Se procedió con el proceso de análisis de los datos, analizando valores atípicos, estadísticas. Además se procedió a eliminar algunas columnas que no se requieren para el proyecto.
