@@ -35,12 +35,12 @@ Este proyecto de Machine Learning se centra en desarrollar un sistema de recomen
 ## Implementación
 El sistema está implementado en Python y utiliza FastAPI para crear una interfaz de programación de aplicaciones (API) que permite acceder a las funcionalidades mencionadas anteriormente.
 
-    * Extracción de datos: Se extrajo los datos de tres (3) archivos json con valores anidados. Se guardó en tres (3) archivos parquet.
-    * ETL: Se procedió con el proceso de limpieza de los datos, eliminación de valores nuelos, vacios y duplicados, además que se cambio el tipo de variables a cada columna.
-    * EDA: Se procedió con el proceso de análisis de los datos, analizando valores atípicos, estadísticas. Además se procedió a eliminar algunas columnas que no se requieren para el proyecto.
-    * Entrenamiento ML: Se procedío a entrenar nuestros datos para que pueda recomendar 5 juegos en base a un juego ya conocido por el usuario.
-    * Creacion de funciones endpoints: Se procedió a crear funciones para el sistema de recomendación de videojuegos, como tambien de los EndPoints, que dan respuesta especifica de información de horas de juegos, generos más jugados, cantidad de juegos Free por desarrolladora de videojuegos, etc.
-    * Deploy en Render: Se procedió a usar las funciones en la interfas de FasTApi y este asi mismo deployado en la pagina de Render.com, para que cualquier persona tenga acceso a este sistema de recomendación de videojuegos.
+* Extracción de datos: Se extrajo los datos de tres (3) archivos json con valores anidados. Se guardó en tres (3) archivos parquet.
+* ETL: Se procedió con el proceso de limpieza de los datos, eliminación de valores nuelos, vacios y duplicados, además que se cambio el tipo de variables a cada columna.
+* EDA: Se procedió con el proceso de análisis de los datos, analizando valores atípicos, estadísticas. Además se procedió a eliminar algunas columnas que no se requieren para el proyecto.
+* Entrenamiento ML: Se procedío a entrenar nuestros datos para que pueda recomendar 5 juegos en base a un juego ya conocido por el usuario.
+* Creacion de funciones endpoints: Se procedió a crear funciones para el sistema de recomendación de videojuegos, como tambien de los EndPoints, que dan respuesta especifica de información de horas de juegos, generos más jugados, cantidad de juegos Free por desarrolladora de videojuegos, etc.
+* Deploy en Render: Se procedió a usar las funciones en la interfas de FasTApi y este asi mismo deployado en la pagina de Render.com, para que cualquier persona tenga acceso a este sistema de recomendación de videojuegos.
 
 ## Cómo Usar
 Clona este repositorio en tu máquina local.
