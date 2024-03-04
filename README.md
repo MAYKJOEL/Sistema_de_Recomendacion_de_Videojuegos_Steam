@@ -48,7 +48,9 @@ Para acceder al proyecto desplegado en Render, haz clic en el siguiente enlace: 
 ¡Las contribuciones son bienvenidas! Si deseas mejorar este proyecto, puedes hacer un fork del repositorio, implementar tus cambios y luego enviar un pull request. Se revisarán y fusionarán las contribuciones relevantes.
 
 ## Créditos
-Este proyecto fue desarrollado por [MAYK JOEL QUISPE GASPAR](https://github.com/MAYKJOEL/) como parte del Primer Proyecto Individual del programa LABs **Data Science** del BootCamp ![`SOYHENRY`](https://d31uz8lwfmyn8g.cloudfront.net/Assets/logo-henry-white-lg.png)
+Este proyecto fue desarrollado por [MAYK JOEL QUISPE GASPAR](https://github.com/MAYKJOEL/) como parte del Primer Proyecto Individual del programa LABs **Data Science** del BootCamp. 
+
+![`SOYHENRY`](https://d31uz8lwfmyn8g.cloudfront.net/Assets/logo-henry-white-lg.png)
 
 
 ## 🛠 Herramientas
