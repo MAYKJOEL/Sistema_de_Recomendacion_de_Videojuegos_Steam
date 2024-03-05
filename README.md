@@ -43,6 +43,9 @@ El sistema está implementado en Python y utiliza FastAPI para crear una interfa
 * Creacion de funciones endpoints: Se procedió a crear funciones para el sistema de recomendación de videojuegos, como tambien de los EndPoints, que dan respuesta específica de información de horas de juegos, generos más jugados, cantidad de juegos Free por desarrolladora de videojuegos, etc.
 * Deploy en Render: Se procedió a usar las funciones con leves modificaciones para que pueda ser interpretado FasTApi y este asi mismo fue deployado en la página de Render.com, para que cualquier persona tenga acceso a este sistema de recomendación de videojuegos.
 
+## Video del proyecto
+* [Sistema de Recomendacion de Videojuegos Steam](https://www.youtube.com/watch?v=-MMINC145Nw)
+
 ## Cómo Usar
 Clona este repositorio en tu máquina local.
 Sigue los pasos que están comentados a detalle en los archivos .ipynb .
